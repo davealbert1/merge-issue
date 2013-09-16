@@ -18,6 +18,7 @@
 		50E2D76D17E71B4F002046B3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 50E2D76C17E71B4F002046B3 /* Default-568h@2x.png */; };
 		50E2D77017E71B4F002046B3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50E2D76F17E71B4F002046B3 /* ViewController.m */; };
 		50E2D77317E71B4F002046B3 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50E2D77117E71B4F002046B3 /* ViewController.xib */; };
+		50E2D77C17E71C07002046B3 /* 2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 50E2D77B17E71C07002046B3 /* 2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		50E2D76E17E71B4F002046B3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		50E2D76F17E71B4F002046B3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		50E2D77217E71B4F002046B3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		50E2D77B17E71C07002046B3 /* 2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				50E2D76E17E71B4F002046B3 /* ViewController.h */,
 				50E2D76F17E71B4F002046B3 /* ViewController.m */,
 				50E2D77117E71B4F002046B3 /* ViewController.xib */,
+				50E2D77B17E71C07002046B3 /* 2.txt */,
 				50E2D75D17E71B4F002046B3 /* Supporting Files */,
 			);
 			path = mergeIssue;
@@ -163,6 +166,7 @@
 				50E2D76B17E71B4F002046B3 /* Default@2x.png in Resources */,
 				50E2D76D17E71B4F002046B3 /* Default-568h@2x.png in Resources */,
 				50E2D77317E71B4F002046B3 /* ViewController.xib in Resources */,
+				50E2D77C17E71C07002046B3 /* 2.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +302,7 @@
 				50E2D77817E71B50002046B3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
