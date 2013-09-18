@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3ACE58DE17E9EC9900CEE88F /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58C017E9EC9900CEE88F /* back.png */; };
+		3ACE58DF17E9EC9900CEE88F /* dermatology.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58C117E9EC9900CEE88F /* dermatology.png */; };
+		3ACE58E017E9EC9900CEE88F /* eye_closed.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58C217E9EC9900CEE88F /* eye_closed.png */; };
+		3ACE58E117E9EC9900CEE88F /* eye_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58C317E9EC9900CEE88F /* eye_open.png */; };
+		3ACE58E217E9EC9900CEE88F /* favourite.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58C417E9EC9900CEE88F /* favourite.png */; };
+		3ACE58E317E9EC9900CEE88F /* healthcare.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58C517E9EC9900CEE88F /* healthcare.png */; };
+		3ACE58F817E9EC9900CEE88F /* nav_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58DB17E9EC9900CEE88F /* nav_bar.png */; };
+		3ACE58F917E9EC9900CEE88F /* page.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58DC17E9EC9900CEE88F /* page.png */; };
+		3ACE58FA17E9EC9900CEE88F /* reaction_side.png in Resources */ = {isa = PBXBuildFile; fileRef = 3ACE58DD17E9EC9900CEE88F /* reaction_side.png */; };
+		3ACE58FE17E9ECDE00CEE88F /* MergeIssueLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3ACE58FD17E9ECDE00CEE88F /* MergeIssueLabel.m */; };
 		50E2D75717E71B4F002046B3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50E2D75617E71B4F002046B3 /* UIKit.framework */; };
 		50E2D75917E71B4F002046B3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50E2D75817E71B4F002046B3 /* Foundation.framework */; };
 		50E2D75B17E71B4F002046B3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50E2D75A17E71B4F002046B3 /* CoreGraphics.framework */; };
@@ -23,6 +33,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3ACE58C017E9EC9900CEE88F /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		3ACE58C117E9EC9900CEE88F /* dermatology.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dermatology.png; sourceTree = "<group>"; };
+		3ACE58C217E9EC9900CEE88F /* eye_closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eye_closed.png; sourceTree = "<group>"; };
+		3ACE58C317E9EC9900CEE88F /* eye_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eye_open.png; sourceTree = "<group>"; };
+		3ACE58C417E9EC9900CEE88F /* favourite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = favourite.png; sourceTree = "<group>"; };
+		3ACE58C517E9EC9900CEE88F /* healthcare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = healthcare.png; sourceTree = "<group>"; };
+		3ACE58DB17E9EC9900CEE88F /* nav_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nav_bar.png; sourceTree = "<group>"; };
+		3ACE58DC17E9EC9900CEE88F /* page.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = page.png; sourceTree = "<group>"; };
+		3ACE58DD17E9EC9900CEE88F /* reaction_side.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reaction_side.png; sourceTree = "<group>"; };
+		3ACE58FC17E9ECDE00CEE88F /* MergeIssueLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MergeIssueLabel.h; sourceTree = "<group>"; };
+		3ACE58FD17E9ECDE00CEE88F /* MergeIssueLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MergeIssueLabel.m; sourceTree = "<group>"; };
 		50E2D75317E71B4F002046B3 /* mergeIssue.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mergeIssue.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50E2D75617E71B4F002046B3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		50E2D75817E71B4F002046B3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -57,6 +78,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3ACE58BF17E9EC7900CEE88F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3ACE58C017E9EC9900CEE88F /* back.png */,
+				3ACE58C117E9EC9900CEE88F /* dermatology.png */,
+				3ACE58C217E9EC9900CEE88F /* eye_closed.png */,
+				3ACE58C317E9EC9900CEE88F /* eye_open.png */,
+				3ACE58C417E9EC9900CEE88F /* favourite.png */,
+				3ACE58C517E9EC9900CEE88F /* healthcare.png */,
+				3ACE58DB17E9EC9900CEE88F /* nav_bar.png */,
+				3ACE58DC17E9EC9900CEE88F /* page.png */,
+				3ACE58DD17E9EC9900CEE88F /* reaction_side.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		3ACE58FB17E9ECC000CEE88F /* subclasses */ = {
+			isa = PBXGroup;
+			children = (
+				3ACE58FC17E9ECDE00CEE88F /* MergeIssueLabel.h */,
+				3ACE58FD17E9ECDE00CEE88F /* MergeIssueLabel.m */,
+			);
+			name = subclasses;
+			sourceTree = "<group>";
+		};
 		50E2D74A17E71B4F002046B3 = {
 			isa = PBXGroup;
 			children = (
@@ -87,14 +133,15 @@
 		50E2D75C17E71B4F002046B3 /* mergeIssue */ = {
 			isa = PBXGroup;
 			children = (
+				3ACE58FB17E9ECC000CEE88F /* subclasses */,
 				50E2D77917E71BE1002046B3 /* 1.txt */,
+				50E2D77B17E71C07002046B3 /* 2.txt */,
 				50E2D76517E71B4F002046B3 /* AppDelegate.h */,
 				50E2D76617E71B4F002046B3 /* AppDelegate.m */,
+				50E2D75D17E71B4F002046B3 /* Supporting Files */,
 				50E2D76E17E71B4F002046B3 /* ViewController.h */,
 				50E2D76F17E71B4F002046B3 /* ViewController.m */,
 				50E2D77117E71B4F002046B3 /* ViewController.xib */,
-				50E2D77B17E71C07002046B3 /* 2.txt */,
-				50E2D75D17E71B4F002046B3 /* Supporting Files */,
 			);
 			path = mergeIssue;
 			sourceTree = "<group>";
@@ -102,6 +149,7 @@
 		50E2D75D17E71B4F002046B3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3ACE58BF17E9EC7900CEE88F /* Images */,
 				50E2D75E17E71B4F002046B3 /* mergeIssue-Info.plist */,
 				50E2D75F17E71B4F002046B3 /* InfoPlist.strings */,
 				50E2D76217E71B4F002046B3 /* main.m */,
@@ -171,6 +219,15 @@
 				50E2D77317E71B4F002046B3 /* ViewController.xib in Resources */,
 				50E2D77A17E71BE1002046B3 /* 1.txt in Resources */,
 				50E2D77C17E71C07002046B3 /* 2.txt in Resources */,
+				3ACE58DE17E9EC9900CEE88F /* back.png in Resources */,
+				3ACE58DF17E9EC9900CEE88F /* dermatology.png in Resources */,
+				3ACE58E017E9EC9900CEE88F /* eye_closed.png in Resources */,
+				3ACE58E117E9EC9900CEE88F /* eye_open.png in Resources */,
+				3ACE58E217E9EC9900CEE88F /* favourite.png in Resources */,
+				3ACE58E317E9EC9900CEE88F /* healthcare.png in Resources */,
+				3ACE58F817E9EC9900CEE88F /* nav_bar.png in Resources */,
+				3ACE58F917E9EC9900CEE88F /* page.png in Resources */,
+				3ACE58FA17E9EC9900CEE88F /* reaction_side.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,6 +241,7 @@
 				50E2D76317E71B4F002046B3 /* main.m in Sources */,
 				50E2D76717E71B4F002046B3 /* AppDelegate.m in Sources */,
 				50E2D77017E71B4F002046B3 /* ViewController.m in Sources */,
+				3ACE58FE17E9ECDE00CEE88F /* MergeIssueLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
